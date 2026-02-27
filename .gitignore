@@ -9,5 +9,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-/app/*
 /gradle/*
+*/build/
+*/release/
